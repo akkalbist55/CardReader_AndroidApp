@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/akkal/.android/build-cache/c3c4bdbb1ed1623df0373ae33db4a29aadb18b33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f04259b26fbb5a1d880e8046d4f00f1717f8f89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/.android/build-cache/dfe245648b4f20e9f1f329da293f2b7359a5e14f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d8f29b11cc792b5894ac9a8023f44f941575cbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/.android/build-cache/cfae717e18eab38858d11a5a78e5ebbfd231baac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9398dd20d176dafe451f4d5481d7b92da169cff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/.android/build-cache/df145eb2b7a2304cbb47f904e4252d724833cdd6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ea8d8c62b93812bedc25803126e4da2e0685596/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/.android/build-cache/a23ea15d3cff13341e7f44d04190e079f5af20ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26c28853de11dcf02723e5105d54a7626cbcc77c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/.android/build-cache/40c9066a38cf30b1de002a0d874054eaecf28a0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d88e5e921154d809f0d2b1e8a01fc04960499c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1ad382a8fe5e89c2fe52e7481ff4fe7a34cdccf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/.android/build-cache/2cb36df0ef8f2f8969208e0f2405cce8d265effa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61bc9a23653fe5da21b8e343fe228f787467205f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/.android/build-cache/652194e257910c614913eab67ccaba6e647ab4f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_607e98c7b58609059346eecae9f1615f4c032f01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_6fe53bb5cf8e80dd1efa541a70c011ef885c4d73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/.android/build-cache/762da0d684507b6b0856690dd34a02aeb0d914d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f8d5d59d4e0e73caffdbaad5d83264562b6da91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/.android/build-cache/701675475fa451eddeb40c5afc45dbc1f2644f22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7910873ba51bf71a7a415841970596ba644c3cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48b797d30512f19d43668c0dafe441e51b95a9f4">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_086b40f2a9fd2346d1887c884c4c7db81ccfeb3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akkal/.android/build-cache/ad0cb6cdd8b1e20945233b915c44807547c9cfb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52a878f256ed53ceab2139996b38781983c728ec/classes.dex" />
+    </item>
+
+</items>

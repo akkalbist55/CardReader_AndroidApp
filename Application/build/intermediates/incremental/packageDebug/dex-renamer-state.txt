@@ -1,0 +1,7 @@
+#Sat Aug 12 19:23:46 NPT 2017
+base.0=/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1ad382a8fe5e89c2fe52e7481ff4fe7a34cdccf1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_086b40f2a9fd2346d1887c884c4c7db81ccfeb3c/classes.dex
+base.1=/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_086b40f2a9fd2346d1887c884c4c7db81ccfeb3c
+file.0=/home/akkal/AndroidStudioProjects/android-CardReader-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1ad382a8fe5e89c2fe52e7481ff4fe7a34cdccf1/classes.dex
